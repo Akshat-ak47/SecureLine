@@ -11,6 +11,6 @@ Step 3: Run the server.py
 
 `python3 server.py`
         
-        Run the client.py (in separate window / separate desktop)
+Run the client.py (in separate window / separate desktop)
 
 `python3 client.py`
