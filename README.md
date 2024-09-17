@@ -8,5 +8,5 @@ Step 2: Update the client.py and server.py with the users IP addresses.
 
 Step 3: Run the server.py
 python3 server.py
-        Run the client.py (in seperate window / sepearate desktop)
+        Run the client.py (in separate window / separate desktop)
 python3 client.py
